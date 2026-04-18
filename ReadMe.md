@@ -27,12 +27,12 @@ This project automates the extraction of structured data from physical receipts.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/vatsalya-arora/Receipt-Recognition.git](https://github.com/vatsalya-arora/Receipt-Recognition.git)
-2.  **Install Dependencies:**
+2. **Install Dependencies:**
    ```bash
    pip install opencv-python pytesseract numpy
-3.  **Run the Scanner:**
+3. **Run the Scanner:**
    ```bash
-   python main.py --image path/to/receipt.jpg
+   pip install opencv-python pytesseract numpy
 
 # 🏗️ Project Structure
 src/preprocessing.py: Image cleaning logic (thresholding, denoising).
