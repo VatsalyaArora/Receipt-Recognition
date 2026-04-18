@@ -26,7 +26,7 @@ This project automates the extraction of structured data from physical receipts.
 ## 📦 Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/vatsalya-arora/receipt-scanner.git](https://github.com/vatsalya-arora/receipt-scanner.git)
+   git clone [https://github.com/vatsalya-arora/Receipt-Recognition.git](https://github.com/vatsalya-arora/Receipt-Recognition.git)
 2.  **Install Dependencies:**
    ```bash
    pip install opencv-python pytesseract numpy
